@@ -1,7 +1,4 @@
-//Name: Ernest
-//Class: CS&145
-//Assignment: Assignment 1 - Phonebook
-//Purpose: This assignment lets us practice to make a linked list from scratch in order to create a phonebook.
+//Purpose: This assignment is to make a linked list from scratch in order to create a phonebook.
 
 import java.util.Scanner;
 
